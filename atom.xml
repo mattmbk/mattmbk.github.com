@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Matthew Brian Kelly's Blog]]></title>
   <link href="http://mattmbk.github.io/atom.xml" rel="self"/>
   <link href="http://mattmbk.github.io/"/>
-  <updated>2013-08-21T14:34:17-04:00</updated>
+  <updated>2013-08-21T15:12:16-04:00</updated>
   <id>http://mattmbk.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Matthew Brian Kelly]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://mattmbk.github.io/blog/2013/08/21/welcome/"/>
+    <updated>2013-08-21T15:09:00-04:00</updated>
+    <id>http://mattmbk.github.io/blog/2013/08/21/welcome</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
